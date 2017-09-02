@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\create_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\create_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\update_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\update_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\89f7d1179293e130d680fbc0dc36e309e406f404\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_stock_drawer.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\activity_main_stock_drawer.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_market_visit.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\menu_market_visit.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\attendance_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\attendance_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_sales_drawer.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\activity_sales_drawer.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\read_lead_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\read_lead_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\feed_comments_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\feed_comments_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\read_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\read_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\menu\\main_menu.xml"
+    }
+]

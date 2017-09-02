@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:66
+-keep class com.tophawks.vm.visualmerchandising.FireApp { <init>(...); }
+

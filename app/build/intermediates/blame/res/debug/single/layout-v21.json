@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\c9367ddb1a438b40b9b14ec36a2c1c2780a08359\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

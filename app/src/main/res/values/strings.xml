@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Track\'n\'Train</string>
+
+    <string-array name="store_channel">
+        <item>Dealer</item>
+        <item>Direct Dealer</item>
+        <item>Distribution</item>
+    </string-array>
+    <string-array name="store_classification">
+        <item>A</item>
+        <item>B</item>
+    </string-array>
+    <string-array name="store_category">
+        <item>category 1</item>
+        <item>category 2</item>
+        <item>category 3</item>
+        <item>category 4</item>
+        <item>category 5</item>
+        <item>category 6</item>
+    </string-array>
+    <string name="title_activity_update_product_list">UpdateProductList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_market_visit">MarketVisit</string>
+    <string name="title_activity_tests">Tests</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home_activity_name">Sales</string>
+
+    <string name="account_create_name">Add Account</string>
+    <string name="account_read_name">Read Account</string>
+    <string name="account_update_name">Edit Account</string>
+
+    <string name="contact_create_name">Add Contact</string>
+    <string name="contact_read_name">Read Contact</string>
+    <string name="contact_update_name">Edit Contact</string>
+
+    <string name="lead_create_name">Add Lead</string>
+    <string name="lead_read_name">Read Lead</string>
+    <string name="lead_update_name">Edit Lead</string>
+
+    <string name="deal_create_name">Add Deal</string>
+    <string name="deal_read_name">Read Deal</string>
+    <string name="deal_update_name">Edit Deal</string>
+
+    <string name="task_create_name">Add Task</string>
+    <string name="task_read_name">Read Task</string>
+    <string name="task_update_name">Edit Task</string>
+
+    <string name="event_create_name">Add Event</string>
+    <string name="event_read_name">Read Event</string>
+    <string name="event_update_name">Edit Event</string>
+
+    <string name="feed_create_name">Add Feed</string>
+    <string name="feed_read_name">Read Feed</string>
+    <string name="feed_update_name">Edit Feed</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean nec condimentum ante, quis mattis mi. Proin ut rhoncus libero, ac euismod neque.</string>
+
+    <string-array name="account_type">
+        <item>Analyst</item>
+        <item>Competitor</item>
+        <item>Customer</item>
+        <item>Distributor</item>
+        <item>Integrator</item>
+        <item>Investor</item>
+        <item>Other</item>
+        <item>Partner</item>
+        <item>Press</item>
+        <item>Prospect</item>
+        <item>Reseller</item>
+        <item>Retailer</item>
+        <item>Supplier</item>
+        <item>Vendor</item>
+    </string-array>
+
+    <string-array name="ownership">
+        <item>Other</item>
+        <item>Private</item>
+        <item>Public</item>
+        <item>Subsidiary</item>
+    </string-array>
+
+    <string-array name="lead_source">
+        <item>Advertisement</item>
+        <item>Cold Call</item>
+        <item>Employee Referral</item>
+        <item>External Referral</item>
+        <item>Online Store</item>
+        <item>Partner</item>
+        <item>Public Relations</item>
+        <item>Sales Mail Alias</item>
+        <item>Seminar Partner</item>
+        <item>Seminar-Internal</item>
+        <item>Trade Show</item>
+        <item>Web Download</item>
+        <item>Web Research</item>
+        <item>Web Cases</item>
+        <item>Web Mail</item>
+        <item>Chat</item>
+    </string-array>
+
+    <string-array name="lead_status">
+        <item>Attempted to Contact</item>
+        <item>Contact in Future</item>
+        <item>Contacted</item>
+        <item>Junk Lead</item>
+        <item>Lost Lead</item>
+        <item>Not Contacted</item>
+        <item>Pre Qualified</item>
+    </string-array>
+
+    <string-array name="industry">
+        <item>ASP</item>
+        <item>Data/Telecom</item>
+        <item>ERP</item>
+        <item>Government/Military</item>
+        <item>Large Enterprise</item>
+        <item>ManagementISV</item>
+        <item>Management Service Provider</item>
+        <item>Network Equipment</item>
+        <item>Non-management</item>
+        <item>Optical Networking</item>
+        <item>Service Provider</item>
+        <item>Small/Medium Enterprise</item>
+        <item>Storage Equipment</item>
+        <item>Storage Service Provider</item>
+        <item>Systems Integrator</item>
+        <item>Wireless Industry</item>
+    </string-array>
+
+    <string-array name="rating">
+        <item>Aquired</item>
+        <item>Active</item>
+        <item>Market Failed</item>
+        <item>Project Cancelled</item>
+        <item>ShutDown</item>
+    </string-array>
+
+    <string-array name="deal_stage">
+        <item>Qualification</item>
+        <item>Needs Analysis</item>
+        <item>Value Proposition</item>
+        <item>Id Descision Makers</item>
+        <item>Proposal/Price Quote</item>
+        <item>Negotiation/Review</item>
+        <item>Closed Won</item>
+        <item>Closed Lost</item>
+        <item>Closed lost to Competition</item>
+    </string-array>
+
+    <string-array name="deal_type">
+        <item>Existing Business</item>
+        <item>New Business</item>
+    </string-array>
+
+    <string-array name="task_subject">
+        <item>Email</item>
+        <item>Call</item>
+        <item>Meeting</item>
+        <item>Send Letter</item>
+        <item>Product Demo</item>
+    </string-array>
+
+    <string-array name="task_status">
+        <item>Not Started</item>
+        <item>Deferred</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Waiting on someone else</item>
+    </string-array>
+
+    <string-array name="task_priority">
+        <item>Highest</item>
+        <item>High</item>
+        <item>Normal</item>
+        <item>Low</item>
+        <item>Lowest</item>
+    </string-array>
+
+    <string-array name="task_repeat">
+        <item>None</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+        <item>Custom</item>
+    </string-array>
+
+</resources>

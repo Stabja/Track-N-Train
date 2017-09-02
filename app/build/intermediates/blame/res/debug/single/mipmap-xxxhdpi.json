@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\sales_icon.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\mipmap-xxxhdpi\\sales_icon.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\add_btn.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\mipmap-xxxhdpi\\add_btn.png"
+    }
+]

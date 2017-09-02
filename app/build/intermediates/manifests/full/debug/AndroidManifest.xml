@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tophawks.vm.visualmerchandising"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" /> <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <permission
+        android:name="com.tophawks.vm.visualmerchandising.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.tophawks.vm.visualmerchandising.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="com.tophawks.vm.visualmerchandising.FireApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/sales_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/sales_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:windowSoftInputMode="stateVisible|adjustResize" >
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Activities.SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.VisualMerchandising.AddProduct"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Activities.MainHomeActivity" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.VisualMerchandising.AllProducts" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.VisualMerchandising.VMReport" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Activities.VisualMerchandisingHomePage" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.VisualMerchandising.ProductDescription" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Activities.StockManagementHomePage" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.AddStore" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.StockReport" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.AvailableProductActivity" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.StoreImageReport" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.VisibilityAudit" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.UpdateStore" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.StoreStocks" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.StoreDetails" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.UpdateProductList"
+            android:label="@string/title_activity_update_product_list"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.StockManagement.MarketVisit"
+            android:label="@string/title_activity_market_visit"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.MainActivity"
+            android:label="Training"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.Modules"
+            android:label="Slides"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.CardActivity"
+            android:label="Modules"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.Tests"
+            android:label="@string/title_activity_tests"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.TestWeb"
+            android:label="@string/title_activity_tests"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Training.TestWeb2"
+            android:label="@string/title_activity_tests"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.tophawks.vm.visualmerchandising.Activities.LoginActivity" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.Attendance.AttendanceHomeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.Attendance.LocationDetectionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyThemeWithActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.Attendance.EnrollActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.Modules.Attendance.RecognizeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/MyThemeWithActionBar" />
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+
+        <supports-screens
+            android:anyDensity="true"
+            android:largeScreens="true"
+            android:normalScreens="true"
+            android:smallScreens="true"
+            android:xlargeScreens="true" />
+
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.MainActivity"
+            android:label="@string/home_activity_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Accounts.CreateAccountActivity"
+            android:label="@string/account_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Accounts.ReadAccountActivity"
+            android:label="@string/account_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Accounts.UpdateAccountActivity"
+            android:label="@string/account_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Contacts.CreateContactActivity"
+            android:label="@string/contact_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Contacts.ReadContactActivity"
+            android:label="@string/contact_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Contacts.UpdateContactActivity"
+            android:label="@string/contact_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Leads.CreateLeadActivity"
+            android:label="@string/lead_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Leads.ReadLeadActivity"
+            android:label="@string/lead_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Leads.UpdateLeadActivity"
+            android:label="@string/lead_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Deals.CreateDealActivity"
+            android:label="@string/deal_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Deals.ReadDealActivity"
+            android:label="@string/deal_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Deals.UpdateDealActivity"
+            android:label="@string/deal_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Events.CreateEventActivity"
+            android:label="@string/event_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Events.ReadEventActivity"
+            android:label="@string/event_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Events.UpdateEventActivity"
+            android:label="@string/event_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Feeds.CreateFeedActivity"
+            android:label="@string/feed_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Feeds.ReadFeedActivity"
+            android:label="@string/feed_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Feeds.UpdateFeedActivity"
+            android:label="@string/feed_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Tasks.CreateTaskActivity"
+            android:label="@string/task_create_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Tasks.ReadTaskActivity"
+            android:label="@string/task_read_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.tophawks.vm.visualmerchandising.SalesMgmt.Modules.Tasks.UpdateTaskActivity"
+            android:label="@string/task_update_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/SalesAppTheme" />
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+            android:theme="@style/Theme.IAPTheme" />
+        <activity
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+
+        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+        <service
+            android:name="com.google.android.gms.tagmanager.TagManagerService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+            <intent-filter>
+                <data android:scheme="tagmanager.c.com.tophawks.vm.visualmerchandising" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+ FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.tophawks.vm.visualmerchandising" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.tophawks.vm.visualmerchandising.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\6e9a72317dabe40cb409e2064973c18b9dd7b786\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\ripple.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\6e9a72317dabe40cb409e2064973c18b9dd7b786\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_white.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\ic_delete_white.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a15642f5a9fe1c66df253edbb78502e53258f4bc\\output\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a8945223f4a29b546b29a30b14e2835849addea6\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_stop_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a15642f5a9fe1c66df253edbb78502e53258f4bc\\output\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sr.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\sr.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mv.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\mv.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\es.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\es.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_group_expand.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_store_image.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\add_store_image.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_edit_white.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\ic_edit_white.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\6e9a72317dabe40cb409e2064973c18b9dd7b786\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_day_hover.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\ffedaa86c3f6f78df495852bb56dece6a5d087e9\\output\\res\\drawable\\background_day_hover.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\as.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\as.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_corner_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f16c571456b955cced38f7ca0b6392a99d316dee\\output\\res\\drawable\\indicator_corner_bg.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\send_image.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\send_image.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a15642f5a9fe1c66df253edbb78502e53258f4bc\\output\\res\\drawable\\mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_add.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\6e9a72317dabe40cb409e2064973c18b9dd7b786\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_photo_back.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\add_photo_back.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_day_today.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\ffedaa86c3f6f78df495852bb56dece6a5d087e9\\output\\res\\drawable\\background_day_today.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user_blank.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\ic_user_blank.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_play_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\priority_drawable_left.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\priority_drawable_left.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\50569f0a323b08f802d6ffdd06dd41750285086f\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\49cfcc22e56ecd41f157f08640a29929481d6b58\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_day_selected.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\ffedaa86c3f6f78df495852bb56dece6a5d087e9\\output\\res\\drawable\\background_day_selected.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\post_button_back.png",
+        "source": "C:\\Github\\TracknTrain\\app\\src\\main\\res\\drawable\\post_button_back.png"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\a15642f5a9fe1c66df253edbb78502e53258f4bc\\output\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\6e9a72317dabe40cb409e2064973c18b9dd7b786\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_play_dark.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_group_collapse.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_stop_light.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\2653d9f1380dd950fcd85d0c16876152bacde43a\\output\\res\\drawable\\mr_media_stop_light.xml"
+    },
+    {
+        "merged": "C:\\Github\\TracknTrain\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\f127cb768a7ed7d922891ae676df8041b4798bcc\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    }
+]
