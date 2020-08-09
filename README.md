@@ -25,7 +25,7 @@ This module is used for posting videos which are used for training current field
 
 ## Apk file
 
-Download APK from [here](https://drive.google.com/file/d/0BwcoMJ0DNQ-RZ3YyVE92NUNRRHc/view?usp=sharing)
+Download APK from [here](https://drive.google.com/file/d/0BwcoMJ0DNQ-RZ3YyVE92NUNRRHc/view?usp=sharing).
 
 ## Screenshots
 
