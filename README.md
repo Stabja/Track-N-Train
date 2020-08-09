@@ -29,4 +29,4 @@ Download APK from [here](https://drive.google.com/file/d/0BwcoMJ0DNQ-RZ3YyVE92NU
 
 ## Screenshots
 
-[S1](https://i.imgur.com/5nFmpYM.jpg)
+![S1](https://i.imgur.com/5nFmpYM.jpg)
