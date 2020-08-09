@@ -1,4 +1,4 @@
-# Track-N-Train
+# Track'N'Train
 
 Track-N-Train is an Android app for managing Sales, Stock, Attendance & Customer Relationship Management for a Company.
 The app consists of 5 modules.
