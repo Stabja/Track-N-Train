@@ -22,3 +22,11 @@ This is the Frontend part where customers can scroll and purchase products curre
 
 ## Training module
 This module is used for posting videos which are used for training current field employees of the company. Think of it as Thinkfic or Udemy.
+
+## Apk file
+
+Download APK from [here](https://drive.google.com/file/d/0BwcoMJ0DNQ-RZ3YyVE92NUNRRHc/view?usp=sharing)
+
+## Screenshots
+
+[S1](https://i.imgur.com/5nFmpYM.jpg)
