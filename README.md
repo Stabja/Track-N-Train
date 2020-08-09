@@ -14,23 +14,18 @@ The app consists of 5 modules.
 ![S2](https://i.imgur.com/EKw5EUD.jpg)
 
 ### Attendance module
----------------------
 This module checks the attendance of field employees by scanning QR code and verifying the geolocation, then confirming the Identity by Facial Recognition.
 
 ### Sales module
-----------------
 This module keeps record of the current sales status of the products.
 
 ### Stock module
-----------------
 This module keeps record of the inventory of products present in the current Stock.
 
 ### Visual Merchandising
-------------------------
 This is the Frontend part where customers can scroll and purchase products currently available in the company stock.
 
 ### Training module
--------------------
 This module is used for posting videos which are used for training current field employees of the company. Think of it as Thinkfic or Udemy.
 
 ## Apk file
